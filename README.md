@@ -7,7 +7,7 @@ the goo.gl links in the images), but Google has dropped that functionality
 so they dropped off the internet. The recent (September 2017) election
 got me to revisit the idea, so all the files are now available here.
 
-http://david.frigge.nz/nzhex2014/
+https://david.frigge.nz/nzhex2014/
 
 Incidentally, Chris's work (and in some cases mine) has inspired some other
 hexmaps:
